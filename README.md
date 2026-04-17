@@ -6,4 +6,7 @@ hi
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryandakidd777&layout=compact&theme=transparent&hide_border=true)
 
+## Commit Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryandakidd777&theme=github-compact&hide_border=true)
+
 wow
