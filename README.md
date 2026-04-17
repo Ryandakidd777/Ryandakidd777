@@ -10,3 +10,4 @@ hi
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryandakidd777&theme=github-compact&hide_border=true)
 
 wow
+i own a website
