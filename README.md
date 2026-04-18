@@ -9,8 +9,7 @@ hi
 # Commit Graph
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryandakidd777&theme=github-compact&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryandakidd777&color=blue) 
-![Visitors]([https://komarev.com/ghpvc/?username=Ryandakidd777&color=blue](https://visitor-badge.laobi.icu/badge?page_id=Ryandakidd777.Ryandakidd777))
+![Profile Views](https://komarev.com/ghpvc/?username=Ryandakidd777&color=blue)
  
 wow
   
