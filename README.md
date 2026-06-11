@@ -1,13 +1,5 @@
-<h1 align="center">hey friend</h1>
+<h1 align="center">hey friend, i'm Braxon</h1>
 
-<p align="center">
-  i own a website<br>
-  i heard its cool
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ryandakidd777&color=blue">
-</p>
 
 ---
 
