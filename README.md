@@ -20,8 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryandakidd777&hide_border=true&background=00000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryandakidd777&hide_border=true&background=ffffff10&stroke=ffffff22&ring=ff8c00&fire=ff8c00&currStreakLabel=ffffff">
 </p>
+
 ---
 
 <p align="center">
