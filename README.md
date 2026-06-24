@@ -1,4 +1,4 @@
-<h1 align="center">hey friend, i'm Braxon</h1>
+<h1 align="center">hey stranger</h1>
 
 
 ---
