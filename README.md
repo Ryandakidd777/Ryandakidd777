@@ -1,6 +1,5 @@
 <h1 align="center">hey stranger</h1>
 
-
 ---
 
 <p align="center">
