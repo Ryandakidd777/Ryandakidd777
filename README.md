@@ -8,14 +8,6 @@
 
 ---
 
-<h1 align="center">The (mostly) Flat Mountains</h1>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryandakidd777&theme=github-compact&hide_border=true">
-</p>
-
----
-
 <p align="center">
   <i>wow</i>
 </p>
